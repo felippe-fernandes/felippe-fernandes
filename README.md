@@ -10,8 +10,9 @@ Sou da Turma XP na Trybe e estou no modulo de BackEnd.
 
 ## 🛠 Habilidades
 
-| <img height="35px" src="https://cdn.svgporn.com/logos/html-5.svg">          | <img height="35px" src="https://cdn.svgporn.com/logos/css-3.svg">         | <img height="30px" src="https://cdn.svgporn.com/logos/react.svg">  |
-| <img height="30px" src="https://cdn.svgporn.com/logos/bootstrap.svg">           | <img height="30px" src="https://cdn.svgporn.com/logos/npm.svg">         | <img height="30px" src="https://cdn.svgporn.com/logos/javascript.svg">  |
+| <img height="35px" src="https://cdn.svgporn.com/logos/html-5.svg"> | <img height="35px" src="https://cdn.svgporn.com/logos/css-3.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/react.svg"> |
+|-------|-------|-------|
+| <img height="30px" src="https://cdn.svgporn.com/logos/bootstrap.svg"> | img height="30px" src="https://cdn.svgporn.com/logos/npm.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/javascript.svg"> |
 
 <img height="35px" src="https://cdn.svgporn.com/logos/html-5.svg">  <img height="35px" src="https://cdn.svgporn.com/logos/css-3.svg">  <img height="30px" src="https://cdn.svgporn.com/logos/react.svg">  <img height="30px" src="https://cdn.svgporn.com/logos/bootstrap.svg">  <img height="30px" src="https://cdn.svgporn.com/logos/npm.svg">  <img height="30px" src="https://cdn.svgporn.com/logos/javascript.svg">
 
