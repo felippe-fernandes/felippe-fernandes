@@ -1,3 +1,40 @@
+# Bem vindo! Eu sou o Felippe
+Espero que encontre tudo que precisa aqui. 
+
+
+
+## 🚀 Sobre mim
+Sou formado em Comunicação Social pela PUC-MG e desde outubro de 2021 tenho me dedicado para ser um Software Developer.
+
+Sou da Turma XP na Trybe e estou no modulo de BackEnd.
+## 🛠 Habilidades
+
+| 𝗛𝗧𝗠𝗟5  | 𝗖𝗦𝗦3 | 𝗦𝗮𝘀𝘀/𝗦𝗖𝗦𝗦 | 𝗕𝗢𝗢𝗦𝗧𝗥𝗔𝗣 | 𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝗖𝘀𝘀 | 𝗻𝗽𝗺 | 𝗝𝗔𝗩𝗔𝗦𝗖𝗥𝗜𝗣𝗧 |
+| ------------- | ------------- |------------- | ------------- |------------- | ------------- |------------- |
+| <img height="30px" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">  | <img height="35px" src="https://cdn.svgporn.com/logos/css-3.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/sass.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/bootstrap.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/npm.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/javascript.svg"> |
+
+
+#### 𝘾𝙤𝙙𝙞𝙣𝙜 𝙩𝙤𝙤𝙡𝙨 𝙄 𝙪𝙨𝙚
+
+| 𝗚𝗜𝗧  | 𝗩𝗦 𝗖𝗼𝗱𝗲 | 𝗡𝗲𝘁𝗹𝗶𝗳𝘆 | 𝗧𝗘𝗥𝗠𝗜𝗡𝗔𝗟 | 
+| ------------- | ------------- |------------- | ------------- |
+| <img height="30px" src="https://cdn.svgporn.com/logos/git-icon.svg">  | <img height="30px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/netlify.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/terminal.svg"> | 
+
+#### 𝘿𝙚𝙨𝙞𝙜𝙣 𝙩𝙤𝙤𝙡𝙨 𝙄 𝙪𝙨𝙚
+
+| 𝗙𝗜𝗚𝗠𝗔 | 𝗜𝗡𝗩𝗜𝗦𝗜𝗢𝗡 | 𝗠𝗔𝗥𝗩𝗘𝗟 | 𝐙𝐄𝐏𝐋𝐈𝐍 | 
+| ------------- | ------------- |------------- | ------------- |
+| <img height="30px" src="https://cdn.svgporn.com/logos/figma.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/invision.svg"> |   <img height="30px" src="https://cdn.svgporn.com/logos/marvel.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/zeplin.svg"> | 
+
+#### 𝙒𝙝𝙖𝙩 𝙄 𝙖𝙢 𝙘𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙇𝙚𝙖𝙧𝙣𝙞𝙣𝙜
+
+| 𝗕𝗔𝗕𝗘𝗟 | 𝗡𝗢𝗗𝗘 𝗝𝗦 | 𝗥𝗘𝗔𝗖𝗧 𝗝𝗦 | 𝗪𝗘𝗕𝗣𝗔𝗖𝗞 | 
+| ------------- | ------------- |------------- | ------------- |
+| <img height="30px" src="https://cdn.svgporn.com/logos/babel.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/react.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/webpack.svg"> | 
+<br>
+
+
+
 <h1 align="center">Hi 👋, I'm Felippe</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
