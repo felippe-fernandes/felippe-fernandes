@@ -1,8 +1,4 @@
 # Bem vindo! Eu sou o Felippe
-Espero que encontre tudo que precisa aqui. 
-
-
-
 ## 🚀 Sobre mim
 Sou formado em Comunicação Social pela PUC-MG e desde outubro de 2021 tenho me dedicado para ser um Software Developer.
 
