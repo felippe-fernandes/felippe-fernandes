@@ -24,7 +24,5 @@ Sou da Turma XP na Trybe e estou no modulo de BackEnd.
 
 ## 📞 Me chama!
 
-<p align="left">
-<a href="https://twitter.com/felippeassuncao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="felippeassuncao" height="30" width="40" /></a>   
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/felippe-fernandes-6111b1117/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/felippe-fernandes-6111b1117/" height="30" width="40" /></a>
-</p>
+| <a href="https://twitter.com/felippeassuncao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="felippeassuncao" height="30" width="40" /></a> | <a href="https://linkedin.com/in/https://www.linkedin.com/in/felippe-fernandes-6111b1117/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/felippe-fernandes-6111b1117/" height="30" width="40" /></a> |
+|-------|-------|
