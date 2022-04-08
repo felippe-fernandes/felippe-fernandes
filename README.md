@@ -10,16 +10,21 @@ Sou da Turma XP na Trybe e estou no modulo de BackEnd.
 
 ## 🛠 Habilidades
 
-<img height="35px" src="https://cdn.svgporn.com/logos/html-5.svg">  <img height="35px" src="https://cdn.svgporn.com/logos/css-3.svg">  <img height="35px" src="https://cdn.svgporn.com/logos/react.svg">  <img height="35px" src="https://cdn.svgporn.com/logos/bootstrap.svg">  <img height="35px" src="https://cdn.svgporn.com/logos/npm.svg">  <img height="35px" src="https://cdn.svgporn.com/logos/javascript.svg">
+| FirstName     | LastName      | City     |
+| ------------- | ------------- | -------- |
+| <img height="35px" src="https://cdn.svgporn.com/logos/html-5.svg">          | <img height="35px" src="https://cdn.svgporn.com/logos/css-3.svg">         | <img height="30px" src="https://cdn.svgporn.com/logos/react.svg">  |
+| <img height="30px" src="https://cdn.svgporn.com/logos/bootstrap.svg">           | <img height="30px" src="https://cdn.svgporn.com/logos/npm.svg">         | <img height="30px" src="https://cdn.svgporn.com/logos/javascript.svg">  |
+
+<img height="35px" src="https://cdn.svgporn.com/logos/html-5.svg">  <img height="35px" src="https://cdn.svgporn.com/logos/css-3.svg">  <img height="30px" src="https://cdn.svgporn.com/logos/react.svg">  <img height="30px" src="https://cdn.svgporn.com/logos/bootstrap.svg">  <img height="30px" src="https://cdn.svgporn.com/logos/npm.svg">  <img height="30px" src="https://cdn.svgporn.com/logos/javascript.svg">
 
 
 #### Ferramentas que eu uso
 
-<img height="35px" src="https://cdn.svgporn.com/logos/git-icon.svg">  <img height="35px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">  <img height="35px" src="https://www.svgrepo.com/show/327408/logo-vercel.svg">  <img height="35px" src="https://cdn.svgporn.com/logos/terminal.svg">
+<img height="30px" src="https://cdn.svgporn.com/logos/git-icon.svg">  <img height="30px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">  <img height="30px" src="https://www.svgrepo.com/show/327408/logo-vercel.svg">  <img height="30px" src="https://cdn.svgporn.com/logos/terminal.svg">
 
 #### Ferramentas de Design que eu uso
 
-<img height="35px" src="https://cdn.svgporn.com/logos/figma.svg">  <img height="35px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg">  <img height="35px" src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-2019.svg">  <img height="35px" src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-4.svg">
+<img height="30px" src="https://cdn.svgporn.com/logos/figma.svg"> <img height="30px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg">  <img height="30px" src="https://cdn.worldvectorlogo.com/logos/adobe-illustrator-cc-2019.svg">  <img height="30px" src="https://cdn.worldvectorlogo.com/logos/photoshop-cc-4.svg">
 
 
 ## 📞 Me chama!
