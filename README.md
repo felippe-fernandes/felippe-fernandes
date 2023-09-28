@@ -2,7 +2,7 @@
 ## 🚀 Sobre mim
 Sou formado em Comunicação Social pela PUC-MG e desde outubro de 2021 tenho me dedicado para ser um Software Developer.
 
-Sou da Turma XP na Trybe e estou no modulo de BackEnd.
+1 ano sendo desenvolverdor Fronteend na XPInc.
 
 ## 🛠 Habilidades
 
