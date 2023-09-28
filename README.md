@@ -2,7 +2,7 @@
 ## 🚀 Sobre mim
 Sou formado em Comunicação Social pela PUC-MG e desde outubro de 2021 tenho me dedicado para ser um Software Developer.
 
-1 ano sendo desenvolverdor Fronteend na XPInc.
+1 ano sendo desenvolverdor Frontend na XPInc.
 
 ## 🛠 Habilidades
 
