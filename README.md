@@ -24,5 +24,5 @@ Sou formado em Comunicação Social pela PUC-MG e desde outubro de 2021 tenho me
 
 ## 📞 Me chama!
 
-| <a href="https://linkedin.com/in/https://www.linkedin.com/in/fernandes-felippe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/felippe-fernandes-6111b1117/" height="30" width="40" /></a> |  <a href="mailto:weslleyalmerindo2@gmail.com"><img src="https://seeklogo.com/images/G/gmail-logo-0B5D69FF48-seeklogo.com.png" alt="email" height="30" width="40" /></a> |
+| <a href="https://linkedin.com/in/https://www.linkedin.com/in/fernandes-felippe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/felippe-fernandes-6111b1117/" height="30" width="40" /></a> |  <a href="mailto:felippe1000@hotmail.com"><img src="https://images.seeklogo.com/logo-png/25/1/mail-envelope-symbol-logo-png_seeklogo-254303.png?v=1957908405984910520" alt="email" height="30" width="40" /></a> |
 |-------|-------|
