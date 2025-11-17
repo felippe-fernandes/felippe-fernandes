@@ -1,4 +1,5 @@
 <!-- HEADER -->
+
 <h1 align="center">👋 Hey, I'm Felippe</h1>
 <p align="center">
   <strong>Frontend Developer · Next.js Specialist · UI-focused Engineer</strong>
@@ -7,23 +8,28 @@
 <br />
 
 <!-- ABOUT -->
-## 🚀 About Me  
-I'm a **Frontend Developer** passionate about building fast, accessible and scalable digital experiences — especially with **Next.js**.
 
-With **3+ years in the financial industry**, I currently work at **XP Inc.**, helping build high-impact products used by millions of users daily.
+## 🚀 About Me
+
+I'm a **Frontend Developer** passionate about building fast, accessible, and scalable digital experiences — especially with **Next.js**.
+
+With **3+ years of experience in the financial industry**, I currently work at **XP Inc.**, helping build high-impact products used by millions of people every day.
 
 What drives me:
-- Clean, scalable frontend architectures  
-- Strong focus on UI/UX and performance  
-- Shipping reliable, production-ready code  
-- Turning complex problems into intuitive experiences  
+
+* Clean and scalable frontend architectures
+* Strong focus on UI/UX and performance
+* Reliable, production-ready code
+* Turning complex problems into intuitive experiences
 
 <br />
 
 <!-- TECH -->
-## 🧰 Tech Stack  
 
-### 🖥 Frontend  
+## 🧰 Tech Stack
+
+### 🖥 Frontend
+
 <div align="center">
   <img height="45" src="https://cdn.svgporn.com/logos/nextjs-icon.svg" />&nbsp;&nbsp;
   <img height="45" src="https://cdn.svgporn.com/logos/react.svg" />&nbsp;&nbsp;
@@ -32,7 +38,8 @@ What drives me:
   <img height="45" src="https://cdn.svgporn.com/logos/tailwindcss-icon.svg" />
 </div>
 
-### ⚙️ Backend & APIs  
+### ⚙️ Backend & APIs
+
 <div align="center">
   <img height="45" src="https://cdn.svgporn.com/logos/nodejs-icon.svg" />&nbsp;&nbsp;
   <img height="45" src="https://cdn.worldvectorlogo.com/logos/nestjs.svg" />&nbsp;&nbsp;
@@ -40,19 +47,22 @@ What drives me:
   <img height="45" src="https://cdn.svgporn.com/logos/supabase-icon.svg" />
 </div>
 
-### 🗄 Databases  
+### 🗄 Databases
+
 <div align="center">
   <img height="45" src="https://cdn.svgporn.com/logos/postgresql.svg" />&nbsp;&nbsp;
   <img height="45" src="https://cdn.svgporn.com/logos/firebase.svg" />
 </div>
 
-### ☁️ DevOps & Deployment  
+### ☁️ DevOps & Deployment
+
 <div align="center">
   <img height="45" src="https://cdn.svgporn.com/logos/vercel-icon.svg" />&nbsp;&nbsp;
   <img height="45" src="https://cdn.svgporn.com/logos/docker-icon.svg" />
 </div>
 
-### 🛠 Tools  
+### 🛠 Tools
+
 <div align="center">
   <img height="45" src="https://cdn.svgporn.com/logos/git-icon.svg" />&nbsp;&nbsp;
   <img height="45" src="https://cdn.svgporn.com/logos/jest.svg" />&nbsp;&nbsp;
@@ -64,51 +74,64 @@ What drives me:
 
 ---
 
-# 📂 Featured Projects  
-A selection of the projects I'm most proud of — focused on real-world use, scalability and clean architecture.
+# 📂 Featured Projects
+
+A selection of the projects I'm most proud of — focused on real-world use, scalability, and clean architecture.
 
 ---
 
-## 💳 Credit Card Planner  
-A complete system to manage credit card expenses, installments, categories and financial insights — divided into **three repositories**.
+## 💳 Credit Card Planner
 
-### **Frontend — Next.js**  
-Modern UI built with  
-**Next.js App Router · Tailwind · shadcn/ui**  
-🔗 _repo link_
+A complete system to manage credit card expenses, installments, categories, and financial insights — split across **multiple repositories** for scalability.
 
-### **Backend — Next.js API**  
-Authentication, business rules and database interactions using  
-**Prisma · Supabase · Next.js API routes**  
-🔗 _repo link_
+### **Frontend — Next.js**
 
----
+Modern UI built with:
+**Next.js App Router · Tailwind · shadcn/ui**
+🔗 **[Frontend Repository](https://github.com/felippe-fernandes/credit_card_planner_frontend)**
 
-## 🎒 TeachFlow  
-A productivity platform that helps teachers organize classes, activities and materials.  
-Built with **Next.js + Prisma**, focused on clarity and workflow efficiency.  
-🔗 _repo link_
+### **Backend — Next.js API**
+
+Authentication, business rules, and data interactions using:
+**Prisma · Supabase · Next.js API routes**
+🔗 **[Backend Repository](https://github.com/felippe-fernandes/credit_card_planner_backend)**
 
 ---
 
-## 🩺 Medical Annotations  
-A streamlined tool for structured medical note-taking.  
-Simple, fast and reliable.  
-🔗 _repo link_
+## 🎒 TeachFlow
+
+A productivity platform that helps teachers organize classes, plans, assignments, and materials.
+Built with **Next.js + Prisma**, focused on intuitive workflows and clarity.
+🔗 **[TeachFlow Repository](https://github.com/felippe-fernandes/teach_flow)**
+
+---
+
+## 🩺 Medical Annotations
+
+A lightweight and structured tool for medical note-taking.
+Fast, simple, and reliable.
+🔗 **[Medical Annotations Repository](https://github.com/felippe-fernandes/medical_annotations)**
 
 <br />
 
 ---
 
-## 📫 Connect with Me  
+## 📫 Connect With Me
+
 <div align="center">
-  <a href="https://linkedin.com/in/fernandes-felippe" target="_blank">
-    <img height="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:felippe1000@hotmail.com">
-    <img height="40" src="https://cdn-icons-png.flaticon.com/512/732/732200.png">
-  </a>
+
+**Felippe Fernandes** <br />
+
+<a href="https://github.com/felippe-fernandes" target="_blank">
+  <img height="40" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/github.svg">
+</a>
+
+   
+
+<a href="https://www.linkedin.com/in/fernandes-felippe/" target="_blank">
+  <img height="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg">
+</a>
+
 </div>
 
 <br />

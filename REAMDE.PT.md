@@ -76,7 +76,7 @@ O que me move:
 
 # 📂 Projetos em Destaque
 
-Uma seleção dos projetos que mais tenho orgulho — com foco em uso real, escalabilidade e arquitetura limpa.
+Seleção dos projetos que mais tenho orgulho — com foco em uso real, escalabilidade e arquitetura limpa.
 
 ---
 
@@ -86,31 +86,31 @@ Um sistema completo para gerenciar cartões de crédito, despesas, parcelamentos
 
 ### **Frontend — Next.js**
 
-UI moderna desenvolvida com
+UI moderna usando:
 **Next.js App Router · Tailwind · shadcn/ui**
-🔗 *link do repositório*
+🔗 **[Repositório Frontend](https://github.com/felippe-fernandes/credit_card_planner_frontend)**
 
 ### **Backend — Next.js API**
 
-Autenticação, regras de negócio e integrações com
+Autenticação, regras de negócio e integrações com:
 **Prisma · Supabase · Next.js API routes**
-🔗 *link do repositório*
+🔗 **[Repositório Backend](https://github.com/felippe-fernandes/credit_card_planner_backend)**
 
 ---
 
 ## 🎒 TeachFlow
 
 Plataforma de produtividade para ajudar professores a organizar aulas, atividades e materiais.
-Construído com **Next.js + Prisma**, focado em clareza e eficiência de fluxo.
-🔗 *link do repositório*
+Construído com **Next.js + Prisma**, focado em clareza e eficiência.
+🔗 **[Repositório TeachFlow](https://github.com/felippe-fernandes/teach_flow)**
 
 ---
 
 ## 🩺 Medical Annotations
 
-Uma ferramenta rápida e simples para anotações médicas estruturadas.
-Direta, confiável e eficiente.
-🔗 *link do repositório*
+Ferramenta leve e prática para anotações médicas estruturadas.
+Direta, rápida e confiável.
+🔗 **[Repositório Medical Annotations](https://github.com/felippe-fernandes/medical_annotations)**
 
 <br />
 
@@ -119,13 +119,15 @@ Direta, confiável e eficiente.
 ## 📫 Conecte-se Comigo
 
 <div align="center">
-  <a href="https://linkedin.com/in/fernandes-felippe" target="_blank">
-    <img height="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg">
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="mailto:felippe1000@hotmail.com">
-    <img height="40" src="https://cdn-icons-png.flaticon.com/512/732/732200.png">
-  </a>
+
+**Felippe Fernandes** <a href="https://github.com/felippe-fernandes" target="_blank"> <img height="40" src="https://cdn.jsdelivr.net/gh/edent/SuperTinyIcons/images/svg/github.svg"> </a>
+
+   
+
+<a href="https://www.linkedin.com/in/fernandes-felippe/" target="_blank">
+  <img height="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg">
+</a>
+
 </div>
 
 <br />
