@@ -32,7 +32,7 @@ What drives me:
 
 <div align="center">
   <img height="45" src="https://cdn.svgporn.com/logos/nextjs-icon.svg" />&nbsp;&nbsp;
-  <img height="45" src="https://cdn.svgporn.com/logos/vite-icon.svg" />&nbsp;&nbsp;
+  <img height="45" src="https://cdn.svgporn.com/logos/vitejs.svg" />&nbsp;&nbsp;
   <img height="45" src="https://cdn.svgporn.com/logos/react.svg" />&nbsp;&nbsp;
   <img height="45" src="https://cdn.svgporn.com/logos/typescript-icon.svg" />&nbsp;&nbsp;
   <img height="45" src="https://cdn.svgporn.com/logos/javascript.svg" />&nbsp;&nbsp;
