@@ -13,7 +13,7 @@
 
 I'm a **Frontend Developer** passionate about building fast, accessible, and scalable digital experiences — especially with **Next.js**.
 
-With **3+ years of experience in the financial industry**, I currently work at **XP Inc.**, helping build high-impact products used by millions of people every day.
+With **4+ years of experience in the financial industry**, I currently work at **XP Inc.**, helping build high-impact products used by millions of people every day.
 
 What drives me:
 
